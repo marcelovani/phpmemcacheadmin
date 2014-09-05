@@ -1,5 +1,5 @@
  AuthType basic
  AuthName "opcache"
- AuthUserFile /xMarcello/Development/sites/opcache/.htpasswd
+ AuthUserFile /xMarcello/Development/sites/memcache/.htpasswd
  Require valid-user
 
