@@ -1,5 +1,4 @@
  AuthType basic
- AuthName "opcache"
+ AuthName "STOP!"
  AuthUserFile /xMarcello/Development/sites/memcache/.htpasswd
  Require valid-user
-
